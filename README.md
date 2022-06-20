@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @rihanna57
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning machine learning and mysql 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+   Hi, I’m Reihaneh Mamdouhi
+-  I’m interested in data science
+-  I’m currently  learn Deep Learning with Pytorch 
+-  As a personality I am lifelong learner.
+- 
 
 <!---
 rihanna57/rihanna57 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
